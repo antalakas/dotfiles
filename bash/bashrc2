@@ -1,1 +1,2 @@
-my bashrc
+export EDITOR=vim
+source ~/liquidprompt/liquidprompt
