@@ -12,7 +12,7 @@ git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ## prepare liquidprompt
 pushd ~
 git clone https://github.com/nojhan/liquidprompt.git
-source ~liquidprompt/liquidprompt
+source liquidprompt/liquidprompt
 ## prepare the rest of the bash files
 mkdir -p ~/.bash_files
 popd
