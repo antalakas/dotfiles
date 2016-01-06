@@ -16,7 +16,7 @@ source liquidprompt/liquidprompt
 ## prepare the rest of the bash files
 mkdir -p ~/.bash_files
 popd
-ln -sf `pwd`/bash/bashrc ~/.bashrc2
+ln -sf `pwd`/bash/bashrc2 ~/.bashrc
 ln -sf `pwd`/bash/aliases ~/.bash_files/aliases
 ln -sf `pwd`/bash/prompts ~/.bash_files/prompts
 ln -sf `pwd`/bash/kerl.bash ~/.bash_files/kerl.bash
